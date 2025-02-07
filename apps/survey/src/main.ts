@@ -1,7 +1,6 @@
 /* eslint-disable perfectionist/sort-imports */
 import { createApp } from 'vue';
 import VueGtag from 'vue-gtag';
-
 import pinia from '@intake24/ui/stores/bootstrap';
 import App from './app.vue';
 import i18n from './i18n';

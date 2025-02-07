@@ -16,6 +16,7 @@ interface ImportMetaEnv {
   readonly VITE_GOOGLE_ANALYTICS_ID: string;
   readonly VITE_STRICH_KEY: string;
   readonly VITE_WEBPUSH_PUBLIC_KEY: string;
+  readonly VITE_MS_CLARITY_PROJECT_ID: string;
 
   readonly VITE_LEGAL_HOME: string;
   readonly VITE_LEGAL_COPYRIGHT: string;
